@@ -7,7 +7,7 @@ I'm a Software Architect with interest in developing projects that promote posit
 
 I also love teaching what I can to other people interested in tech.
 
-I'm based in Spain and I'm currently working at Thinkabit.
+I'm based in Spain and I'm currently working at Intermark IT / Thinkabit.
 
 - 🔭 I’m currently focused on working with Spring Boot on a new CMS development.
 - 🌱 I’m currently learning more about Google Cloud and AWS workflows and architecture.
