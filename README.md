@@ -1,7 +1,7 @@
 # Hello there, I'm Miguel! 👋🏽
 
 [![Linkedin Badge](https://img.shields.io/badge/-mavilaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mavilaf/)](https://www.linkedin.com/in/mavilaf/)
-[![Gmail Badge](https://img.shields.io/badge/-miguelangelvilaf+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelangelvilaf+github@gmail.com)](mailto:miguelangelvilaf+github@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-miguelangelvilaf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelangelvilaf@gmail.com)](mailto:miguelangelvilaf@gmail.com)
 
 I'm a Software Architect with interest in developing projects that promote positive impact on our society.
 
