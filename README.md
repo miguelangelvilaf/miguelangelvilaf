@@ -10,7 +10,9 @@ I also love teaching what I can to other people interested in tech.
 - 🔭 I’m currently focused on working with Spring Boot and Microservices.
 - 🌱 I’m currently learning more about Google Cloud and AWS workflows and architecture.
 - ⚡ Main skills used at the moment:
-  - Java | Spring Boot | Microservices | Node | DevOps | Full Stack Web Development
+  - Java | Spring Boot | Microservices 
+  - Node | DevOps
+  - Full Stack Web Development
 
 ## ⚡ Github Stats
 <p align="justify">
