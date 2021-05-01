@@ -9,7 +9,7 @@ I also love teaching what I can to other people interested in tech.
 
 I'm based in Spain and I'm currently working at Intermark IT / Thinkabit.
 
-- 🔭 I’m currently focused on working with Spring Boot and microservices.
+- 🔭 I’m currently focused on working with Spring Boot and Microservices.
 - 🌱 I’m currently learning more about Google Cloud and AWS workflows and architecture.
 - ⚡ Main skills used at the moment:
   - Java | Spring Boot | Microservices | DevOps | Full Stack Web Development
